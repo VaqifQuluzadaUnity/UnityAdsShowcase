@@ -1,0 +1,2 @@
+For Initialization of Ads SDK you need to first play from AdsInitializationScene.
+
