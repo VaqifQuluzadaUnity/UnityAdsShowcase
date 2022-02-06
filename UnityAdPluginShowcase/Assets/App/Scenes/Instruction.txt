@@ -1,2 +1,10 @@
-For Initialization of Ads SDK you need to first play from AdsInitializationScene.
+1) For Initialization of Ads SDK you need to first play from AdsInitializationScene.
+
+2)Main Internet Connection Handlers are set in BannerAdScene. You can apply them into 
+interstatial and rewarded ad scenes.
+
+3)Add Event System to each scene if you want your UI canvases work properly :D
+
+4) Pay attention for Game_ID, and AdUnit IDs. Banner, rewarded and interstatial unit IDs are important and
+different for different platforms.
 

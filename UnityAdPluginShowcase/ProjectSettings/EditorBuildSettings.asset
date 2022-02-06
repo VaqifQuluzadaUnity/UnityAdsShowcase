@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/App/Scenes/AdsInitializationScene.unity
-    guid: 184c6dfecb497754d96d989b32611874
+    path: Assets/App/Scenes/AdInitScene.unity
+    guid: 8ab0df3e996e383499a12eacd1f46e6d
+  - enabled: 1
+    path: Assets/App/Scenes/BannerAdScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/App/Scenes/InterstatialScene.unity
+    guid: 87431ac8e0fcc6c4f9b9f6618f1c6de5
+  - enabled: 1
+    path: Assets/App/Scenes/RewardedAdScene.unity
+    guid: ffb2f12ed5b1e2c44a2dcfab9147168c
   m_configObjects: {}
