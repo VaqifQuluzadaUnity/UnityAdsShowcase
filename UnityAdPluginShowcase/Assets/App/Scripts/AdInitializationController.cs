@@ -32,8 +32,6 @@ public class AdInitializationController : MonoBehaviour, IUnityAdsInitialization
         bannerAdSceneButton.onClick.AddListener(onBannerSceneButtonClicked);
         interstatialAdSceneButton.onClick.AddListener(onInterstatialSceneButtonClicked);
         rewardedAdSceneButton.onClick.AddListener(onRewardedSceneButtonPressed);
-
-        EnableAllButtons();
     }
 
     public void InitializeAds()
